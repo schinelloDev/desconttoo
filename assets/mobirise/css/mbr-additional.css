@@ -1956,8 +1956,8 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-rJIADUCCJk {
-  padding-top: 120px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rJIADUCCJk h4 {
@@ -1990,6 +1990,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJIADUCCJk .mbr-section-subtitle {
   text-align: center;
+  color: #ff3366;
 }
 .cid-rJIADUCCJk H2 {
   text-align: center;
@@ -1999,6 +2000,53 @@ section.lazy-placeholder:after {
 }
 .cid-rJIADUCCJk .mbr-text,
 .cid-rJIADUCCJk .mbr-section-btn {
+  text-align: center;
+}
+.cid-rJMM3VzSOX {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rJMM3VzSOX h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rJMM3VzSOX p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rJMM3VzSOX .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rJMM3VzSOX .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rJMM3VzSOX .mbr-text {
+  color: #767676;
+}
+.cid-rJMM3VzSOX .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rJMM3VzSOX .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rJMM3VzSOX .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-rJMM3VzSOX H2 {
+  text-align: center;
+}
+.cid-rJMM3VzSOX .card-title {
+  text-align: center;
+}
+.cid-rJMM3VzSOX .mbr-text,
+.cid-rJMM3VzSOX .mbr-section-btn {
   text-align: center;
 }
 .cid-rJfnqaOIQ5 .navbar {
