@@ -1113,16 +1113,19 @@ section.lazy-placeholder:after {
 .cid-rJfnqKcqUH {
   background-image: url("../../../assets/images/topo-1000x667.jpg");
 }
-.cid-rJfsMuQMTr {
-  background: #ffffff;
+.cid-rKt8WxF3mT {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/inta-1000x667.jpg");
 }
-.cid-rJfsMuQMTr .video-block {
-  margin: auto;
-  width: 100% !important;
+@media (min-width: 992px) {
+  .cid-rKt8WxF3mT .mbr-figure {
+    padding-left: 4rem;
+  }
 }
-@media (max-width: 768px) {
-  .cid-rJfsMuQMTr .video-block {
-    width: 100% !important;
+@media (max-width: 991px) {
+  .cid-rKt8WxF3mT .mbr-figure {
+    padding-top: 3rem;
   }
 }
 .cid-rJfoBIvHVD {
